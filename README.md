@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jai Bhati
-- 👀 I’m interested in coding on all stacks using javascript, nodeJS and sometimes Java
-- 🌱 I’m currently learning GraphQL/ AI/ML
+- 👀 I am a full stack developer with coding background in JS (ECMA6), Java, Python, NodeJS
+- 🌱 I’m currently learning GraphQL/AI/ML
 - 📫 How to reach me - mailjai@gmail.com
 
 <!---
